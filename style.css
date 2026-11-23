@@ -1,7 +1,4 @@
 
-/* =========================
-   GENERAL STYLING
-========================= */
 
 * {
     margin: 0;
@@ -55,9 +52,7 @@ a {
 }
 
 
-/* =========================
-   HOME HEADER
-========================= */
+
 
 .header {
     display: flex;
@@ -90,9 +85,7 @@ a {
 }
 
 
-/* =========================
-   POINTS CARD
-========================= */
+
 
 .points-card {
     background: #174b32;
@@ -154,9 +147,7 @@ a {
 }
 
 
-/* =========================
-   SECTION HEADINGS
-========================= */
+
 
 .section {
     margin-bottom: 30px;
@@ -179,9 +170,7 @@ a {
 }
 
 
-/* =========================
-   HOLE GRID
-========================= */
+
 
 .hole-grid {
     display: grid;
@@ -236,9 +225,6 @@ a {
 }
 
 
-/* =========================
-   OTHER OPTIONS
-========================= */
 
 .section-title {
     margin-bottom: 15px;
@@ -288,9 +274,7 @@ a {
 }
 
 
-/* =========================
-   PAGE HEADER
-========================= */
+
 
 .page-header {
     display: flex;
@@ -318,9 +302,7 @@ a {
 }
 
 
-/* =========================
-   REPORT LOCATION
-========================= */
+
 
 .report-location {
     background: #e8f0e8;
@@ -358,9 +340,7 @@ a {
 }
 
 
-/* =========================
-   REPORT FORM
-========================= */
+
 
 .report-section {
     margin-bottom: 27px;
@@ -470,9 +450,7 @@ a {
 }
 
 
-/* =========================
-   SUCCESS PAGE
-========================= */
+
 
 .success-section {
     text-align: center;
@@ -524,9 +502,7 @@ a {
 }
 
 
-/* =========================
-   REWARD CARD
-========================= */
+
 
 .reward-card {
     background: white;
@@ -577,9 +553,6 @@ a {
 }
 
 
-/* =========================
-   BOTTOM NAVIGATION
-========================= */
 
 .bottom-nav {
     position: absolute;
@@ -615,9 +588,7 @@ a {
 }
 
 
-/* =========================
-   SMALL SCREEN ADJUSTMENTS
-========================= */
+
 
 @media (max-width: 450px) {
     body {
